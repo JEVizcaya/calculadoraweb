@@ -25,7 +25,9 @@ body{
 
 
 
-
+.pantalla{
+    width: 94%;
+}
 
 @media screen and (max-witdth:768px){
     .calculadora{
